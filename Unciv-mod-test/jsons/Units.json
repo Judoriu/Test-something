@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Siker",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Bronze Working",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Big Atomic",
+		"unitType": "Atomic Bomber",
+		"strength": 300,
+		"rangedStrength": 60,
+		"range": 50,
+		"requiredTech": "Agriculture",
+		"requiredResource": "",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "Mega Nuke Explosion"
+	}
+]
